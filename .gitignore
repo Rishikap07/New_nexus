@@ -20,6 +20,7 @@ data/archive_memory/
 # Generated Output
 newsletter_*.html
 
+
 # IDE/System Files
 .vscode/
 .idea/
